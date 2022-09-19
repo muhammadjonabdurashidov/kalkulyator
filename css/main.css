@@ -1,0 +1,28 @@
+body {
+  background-color: dodgerblue;
+}
+
+#text {
+  font-size: 80px;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 300px;
+}
+
+#text {
+  position: absolute;
+  top: 100px;
+}
+
+#son2 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#son1 {
+  margin-right: 20px;
+}
